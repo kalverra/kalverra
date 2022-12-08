@@ -14,6 +14,3 @@ I'm an SDET/SDE currently working at [Chainlink Labs](https://chain.link/).
 * Economics
 * Philosophy
 * Writing
-
-[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalverra)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalverra&layout=compact)](#)
