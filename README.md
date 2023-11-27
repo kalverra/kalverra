@@ -8,9 +8,3 @@ I'm an SDET/SDE currently working at [Chainlink Labs](https://chain.link/).
 * Testing
 * Distributed Systems
 * Cryptocurrencies and Cryptography
-
-## General Interests
-
-* Economics
-* Philosophy
-* Writing
